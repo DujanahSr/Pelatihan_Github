@@ -12,3 +12,5 @@
 - Neptunus
 
 [Tata Surya](https://solarsystem.nasa.gov/)
+
+![Galaksi Bima Sakti](https://example.com/images/milky-way-galaxy.jpg)
